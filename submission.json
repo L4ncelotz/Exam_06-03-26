@@ -1,0 +1,11 @@
+{
+  "student_id": "6604101403",
+  "name": "นายชยานันต์ หล้ากาศ",
+  "github_repo": "https://github.com/L4ncelotz/Exam_06-03-26",
+  "backend_base_url": "https://exam-06-03-26-1.onrender.com",
+  "frontend_url": "https://exam-06-03-26.vercel.app",
+  "api": {
+    "health": "https://exam-06-03-26-1.onrender.com/api/health",
+    "tasks": "https://exam-06-03-26-1.onrender.com/api/tasks"
+  }
+}
